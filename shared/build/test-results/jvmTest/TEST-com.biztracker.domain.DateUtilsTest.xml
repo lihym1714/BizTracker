@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.biztracker.domain.DateUtilsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-03-03T01:21:08" hostname="shahn-MacBook-Pro.local" time="0.038">
+  <properties/>
+  <testcase name="formatCurrency_addsGroupingSeparators[jvm]" classname="com.biztracker.domain.DateUtilsTest" time="0.032"/>
+  <testcase name="yearMonth_parsesDate[jvm]" classname="com.biztracker.domain.DateUtilsTest" time="0.005"/>
+  <testcase name="startAndEndOfMonth_returnExpectedDates[jvm]" classname="com.biztracker.domain.DateUtilsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

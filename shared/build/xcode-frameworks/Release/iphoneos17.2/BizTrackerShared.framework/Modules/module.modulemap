@@ -1,0 +1,8 @@
+framework module "BizTrackerShared" {
+    umbrella header "BizTrackerShared.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
